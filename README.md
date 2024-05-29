@@ -15,13 +15,17 @@ I listened to user feedback and ran tests to make sure the design was intuitive 
 <H2>Randomized Study Mode Feature Development:</H2>
 
 <p2>I created a feature that randomly selects flashcards for users to study, making learning more engaging.</p2>
+
 <p2>Developed algorithms that choose flashcards randomly to encourage users to actively remember information.</p2>
+
 <p2>I made the feature customizable, so users can adjust settings to match their preferences for studying.</p2>
 
 <H2>Spaced Repetition Algorithm Implementation:</H2>
 
 <p2>Integrated a spaced repetition algorithm into the app to help users memorize information more effectively.</p2>
+
 <p2>Developed algorithms that schedule when users should review flashcards based on the spaced repetition principle.</p2>
+
 <p2>Made the app adapt the timing of reviews based on how well users remembered information and their feedback.</p2>
 
 <H2>Version Control with Git for Collaborative Development:</H2>
