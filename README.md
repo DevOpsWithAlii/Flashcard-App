@@ -31,5 +31,7 @@ I listened to user feedback and ran tests to make sure the design was intuitive 
 <H2>Version Control with Git for Collaborative Development:</H2>
 
 <p2>I used Git to manage changes to the app's code and to work with others on developing it.</p2>
+
 <p2>Established rules for how changes were made and reviewed to keep the development process organized.</p2>
+
 <p2>Took advantage of Git's features like pull requests and code reviews to maintain the quality of the code and add new features smoothly.</p2>
