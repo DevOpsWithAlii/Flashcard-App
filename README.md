@@ -4,7 +4,7 @@ I created an easy-to-use interface for a flashcard app, making it simple and enj
 
 The design focused on making the app visually appealing and easy to navigate, helping users learn more effectively.
 
-I listened to user feedback and ran tests to make sure the design was intuitive and improved it based on what users said.
+I listened to user feedback and ran tests to makee sure the design was intuitive and improved it based on what users said.
 
 <H2>SQLite Data Management Integration:</H2>
 
