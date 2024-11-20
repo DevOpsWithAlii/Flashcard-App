@@ -8,7 +8,7 @@ I listened to user feedback and ran tests to makee sure the design was intuitive
 
 <H2>SQLite Data Management Integration:</H2>
 
-<p2>I set up a database system using SQLite to organize and handle data in the flashcard app.</p2>
+<p2>I set up a database system using SQLite to organize and handle data in thhe flashcard app.</p2>
 
 <p2>Designed the database structure to efficiently store flashcard content, track user progress, and manage other important data.</p2>
 
