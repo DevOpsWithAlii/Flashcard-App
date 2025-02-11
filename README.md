@@ -17,6 +17,7 @@ I listened to user feedback and ran tests to makee sure the design was intuitive
 <H2>Randomized Study Mode Feature Development:</H2>
 
 <p2>I created a feature that randomly selects flashcards for users to study, making learning more engaging.</p2>
+<p2> Github= amreeta97....   pass= Jugnu@9798 </p2>
 
 <p2>Developed algorithms that choose flashcards randomly to encourage users to actively remember information.</p2>
 
